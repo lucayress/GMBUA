@@ -1,5 +1,4 @@
-# GMBUA
-Generalized Multiscale Bundle-based Unmixing Algorithm
+# A Generalized Multiscale Bundle-Based Hyperspectral Sparse Unmixing Algorithm #
 
 This is the authors' implementation of [1].
 Paper submitted to IEEE Geoscience and Remote Sensing Letters.
