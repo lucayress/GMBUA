@@ -6,6 +6,6 @@ This is the authors' implementation of the submitted paper [1]:
         L. C. Ayres, R.A. Borsoi, J.C.M. Bermudez, S.J.M. de Almeida.
         IEEE Geoscience and Remote Sensing Letters, 2023.
 
-The code will be published after the final review of the paper.
+The code will be published after the final review of the manuscript.
 
 
